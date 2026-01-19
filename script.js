@@ -1,19 +1,19 @@
 const CONFIG = {
-    titleWeb: "Bianca My love",
+    titleWeb: "My Tokki",
 
-    background: "background.jpg",
+    background: "pink.jpg",
 
-    min1: "min1.jpeg",
-    min2: "min2.jpeg",
-    min3: "min3.jpeg",
-    min4: "min4.jpeg",
-    min5: "min5.jpeg",
-    min6: "min6.jpeg",
+    min1: "K1.jpg",
+    min2: "O.jpg",
+    min3: "I.jpg",
+    min4: "Tokki.jpg",
+    min5: "K.jpg",
+    min6: "tokki6.jpg",
 
-    max1: "max1.jpeg",
-    max2: "max2.jpeg",
-    max3: "max3.jpeg",
-    max4: "max4.png",
-    max5: "max5.jpeg",
-    max6: "max6.jpeg", 
+    max1: "bunny.jpg",
+    max2: "kai.jpg",
+    max3: "T.jpg",
+    max4: "toki.jpg",
+    max5: "tokki4.jpg",
+    max6: "tokki5.jpg", 
 }
